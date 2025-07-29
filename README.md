@@ -40,30 +40,25 @@ When all dice are the same, **you win**, and a confetti celebration appears! �
 
 ---
 
-## 🔐 Environment Variables
+## 🖥️ How to Run Locally
 
-This project uses environment variables to secure your API key.
+1. Clone the repo:
+```bash
+git clone https://github.com/Souravkr01/Tenzies.git
+cd tenzies
 
-### Step 1: Create `.env` file in root
-
-```env
-VITE_OPENROUTER_API_KEY=your_openrouter_api_key_here
 ```
 1. Clone the repo
 
-   git clone https://github.com/Souravkr01/ChefClaude.git
-   cd ChefClaude
+   git clone https://github.com/Souravkr01/Tenzies.git
+   cd Tenzies
 
 
 2. Install dependencies
    
    npm install
 
-3. Setup .env
-   
-   VITE_OPENROUTER_API_KEY=your_openrouter_api_key_here
-
-4. Start the dev server
+3. Start the dev server
 
    npm run dev
 
@@ -71,5 +66,16 @@ VITE_OPENROUTER_API_KEY=your_openrouter_api_key_here
 
 - **React** (useState, useEffect, useRef hooks)  
 - **NanoID** for unique dice IDs  
-- **React-Confetti** for the celebration effect  
+- **React-Confetti** for the celebration effect
+
+---
+
+## 🎮 Gameplay
+Click Roll to roll all dice
+
+Click on a die to hold it
+
+Keep rolling until all dice show the same number
+
+Enjoy the confetti celebration and start a New Game 🎉
 
