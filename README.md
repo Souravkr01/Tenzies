@@ -46,13 +46,7 @@ When all dice are the same, **you win**, and a confetti celebration appears! ðŸŽ
 ```bash
 git clone https://github.com/Souravkr01/Tenzies.git
 cd tenzies
-
 ```
-1. Clone the repo
-
-   git clone https://github.com/Souravkr01/Tenzies.git
-   cd Tenzies
-
 
 2. Install dependencies
    
