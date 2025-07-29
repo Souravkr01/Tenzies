@@ -19,6 +19,54 @@ When all dice are the same, **you win**, and a confetti celebration appears! �
 
 ---
 
+## 🧠 Tech Stack
+
+- **Frontend:** React, Vite
+- **API:** OpenRouter AI API
+- **Deployment:** Netlify
+- **Styling:** CSS
+- **Version Control:** Git + GitHub
+
+---
+
+## 📸 Preview
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/fd60d143-f2f9-46a3-b41e-c221710130da" />
+
+---
+
+## 🔗 Live Demo
+
+👉 [Check it out here](https://rolldice-tenzies.netlify.app/)
+
+---
+
+## 🔐 Environment Variables
+
+This project uses environment variables to secure your API key.
+
+### Step 1: Create `.env` file in root
+
+```env
+VITE_OPENROUTER_API_KEY=your_openrouter_api_key_here
+```
+1. Clone the repo
+
+   git clone https://github.com/Souravkr01/ChefClaude.git
+   cd ChefClaude
+
+
+2. Install dependencies
+   
+   npm install
+
+3. Setup .env
+   
+   VITE_OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+4. Start the dev server
+
+   npm run dev
+
 ## 🛠️ Tech Stack
 
 - **React** (useState, useEffect, useRef hooks)  
